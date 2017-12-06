@@ -8,7 +8,7 @@ class RandomTest extends Component {
   }
   render(){
     let {
-      h2 = 'Heba is testing react-websocket',
+      h2 = 'Heba is cvbcvbvcvvtesting react-websocket',
     } = this.props;
 
     let {
